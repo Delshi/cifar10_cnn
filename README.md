@@ -3,7 +3,8 @@ It uses some augmentation of images, contains logging of lots of metrics such as
 
 # How to use
 ## Installation
-Run requirements.bat and then start model.py
+1. Run requirements.bat and then start model.py
+2. Unpack archives in log folder
 ## Usage
 1. To start learning, run start_tb.bat and then run model.py
 2. Before learning delete logs directory, then run model.py
