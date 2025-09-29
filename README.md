@@ -1,10 +1,10 @@
-The cifar-10 CNN classifier.
+The **cifar-10** CNN classifier with **~92%** accuracy.
 It uses some augmentation of images, contains logging of lots of metrics such as projector, PR-curves, etc.
 
 # How to use
 ## Installation
 1. Run requirements.bat and then start model.py
-2. Unpack archives in log folder
+2. Unpack archives in **logs** folder
 ## Usage
 1. To start learning, run start_tb.bat and then run model.py
 2. Before learning delete logs directory, then run model.py
